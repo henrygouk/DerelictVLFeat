@@ -1,0 +1,12 @@
+{
+	"name": "derelict-vlfeat",
+	"authors": [
+		"Henry Gouk"
+	],
+	"dependencies": {
+		"derelict-util": "~>2.1.0"
+	},
+	"description": "Dynamic bindings for the VLFeat library",
+	"copyright": "Copyright © 2017, Henry Gouk",
+	"license": "BSD 2-clause"
+}
